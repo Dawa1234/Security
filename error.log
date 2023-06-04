@@ -1,0 +1,4 @@
+{"error":{},"level":"error","message":"isSameDevice is not defined","timestamp":1684775480907}
+{"error":{},"level":"error","message":"Password must meet at least 5 complexity requirements","timestamp":1684862228408}
+{"error":{},"level":"error","message":"Cannot destructure property 'req' of 'undefined' as it is undefined.","timestamp":1684862641356}
+{"error":{},"level":"error","message":"Cannot destructure property 'req' of 'undefined' as it is undefined.","timestamp":1684862857479}
