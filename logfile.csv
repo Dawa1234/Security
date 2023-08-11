@@ -187,3 +187,13 @@
 2023-06-04T05:58:15.153Z,info,SignIN Attempt,unknown,Firefox 113.0 on Windows 10,::ffff:127.0.0.1
 2023-06-04T06:01:59.198Z,info,SignIN Attempt,unknown,Firefox 113.0 on Windows 10,::ffff:127.0.0.1
 2023-06-04T06:04:48.846Z,info,SignIN Attempt,unknown,Firefox 113.0 on Windows 10,::ffff:127.0.0.1
+2023-08-09T05:30:35.829Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-09T05:30:36.017Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-09T05:30:38.054Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-09T05:30:39.126Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-09T05:30:39.765Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-11T16:54:24.749Z,info,SignUp attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-11T16:54:38.535Z,info,SignUp attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-11T16:55:18.966Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-11T16:56:02.259Z,info,SignUp attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
+2023-08-11T16:56:43.554Z,info,SignIN Attempt,unknown,Safari 16.1 on Mac OS 10.15.7,::1
